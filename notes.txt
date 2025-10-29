@@ -1,0 +1,3 @@
+These are my initial notes.
+Learning Git basics.
+Practicing clone, commit, push, pull.
